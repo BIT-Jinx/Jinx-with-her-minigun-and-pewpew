@@ -1,0 +1,69 @@
+body
+{
+	background-color: #f4f4f4;
+}
+.container{
+	width: 100%;
+	background-color: #f4f4f4;
+}
+.jinx-09{
+	background-color: #f4f4f4;
+}
+.mid{
+	height: inherit;
+	margin: 0 auto;
+	width: 100%;
+	background-color: #f4f4f4;
+}
+#allhero{
+	width: inherit;
+	background-color: #f4f4f4;
+}
+.touxiang{
+	margin: 0 20%;
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px solid rgba(22, 22, 22, 0.4);
+	padding: 15px;
+	border-radius: 3px;
+	background-color: #f4f4f4;
+	justify-content: space-evenly;
+}
+.single{
+	margin: 12.4px 34px;
+	background-color: #f4f4f4;
+
+}
+.single img{
+	width: 67.7px;
+	margin: 7px 5px 1px 5px;
+	border-radius: 3px;
+}
+.single a{
+	background-color: #f4f4f4;
+}
+.daohang span,.daohang i{
+	background-color: #f4f4f4;
+}
+.daohang>a{
+	background-color: #f4f4f4;
+}
+.single p{
+	color: #333333;
+	font-size: 0.8em;
+	font-weight: bold;
+	text-align: center;
+	background-color: #f4f4f4;
+}
+.daohang{
+	margin: 15px 20% ;
+	font-size: 1.2em;
+	background-color: #f4f4f4;
+}
+.fa-arrow-right{
+	opacity: 0.7;
+	background-color: #f4f4f4;
+}
+.box{
+	background-color: #f4f4f4;
+}

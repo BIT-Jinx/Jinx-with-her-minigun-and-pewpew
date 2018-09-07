@@ -1,106 +1,105 @@
 *{
-	margin:0;
-	padding:0;
-	box-sizing: border-box;
+margin:0;
+padding:0;
+box-sizing: border-box;
 }
 a{
-	color: #c9aa71;
-	text-decoration: none;
+color: #c9aa71;
+text-decoration: none;
 }
 .nosub{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: center;
 }
 .left{
-	border-bottom: 2px solid #c9aa71;
-	height: 70px;
+border-bottom: 2px solid #c9aa71;
+height: 70px;
 }
 ul{
-	list-style: none;
+list-style: none;
 }
 body{
-	background-color: #f4f4f4;
+background-color: #f4f4f4;
 }
 header{
-	background-color:#222222; 
-	height: 70px;
+background-color:#222222;
+height: 70px;
 }
 header .left img{
-	position: absolute;
-	height: 85px;
-	margin-left: 30px;
-	margin-top: 10px;
-} 
+position: absolute;
+height: 85px;
+margin-left: 30px;
+margin-top: 10px;
+}
 header .nosub>li{
-	color: #c9aa71; 
-	margin:0 15px; 
-	line-height:70px;
-	font-size: 1.35em;
-	font-weight: bold;
-	cursor: pointer;
+color: #c9aa71;
+margin:0 15px;
+line-height:70px;
+font-size: 1.35em;
+font-weight: bold;
+cursor: pointer;
 }
 header .fas{
-	font-size: 1.2em;
+font-size: 1.2em;
 }
 header .sub{
-	background-color: #222222;
-	border-radius: 0 0 5px 5px;
-	line-height: 2.2em;
-	font-size: 0.9em;
-	padding-bottom: 10px;
-	position: absolute;
-	display: none;
-	width: 180px;
-	z-index: 1;
+background-color: #222222;
+border-radius: 0 0 5px 5px;
+line-height: 2.2em;
+font-size: 0.9em;
+padding-bottom: 10px;
+position: absolute;
+display: none;
+width: 180px;
+z-index: 1;
 }
 header .sub a{
-	padding: 10px;
+padding: 10px;
 }
 header .nosub>li:hover>a{
-	color: #ffffff;
+color: #ffffff;
 }
 header .nosub>li:hover .sub{
-	display: block;
+display: block;
 }
 header .sub li:hover a{
-	color: #ffffff;
+color: #ffffff;
 }
 .jinx-09{
-	margin: 0 auto;
-	width: 100%;
+margin: 0 auto;
+width: 100%;
 }
 .footer{
-	padding: 15px 0 25px 0;
-	background-color: #222222;
-	color: #ffffff;
-	margin-top: 0px;
-	text-align: center;
-	font-size: 0.8em;
-	font-weight: normal;
+padding: 15px 0 25px 0;
+background-color: #222222;
+color: #ffffff;
+margin-top: 0px;
+text-align: center;
+font-size: 0.8em;
+font-weight: normal;
 }
 .footer div{
-	margin-top: 5px;
+margin-top: 5px;
 }
 .fontawesome{
-	font-size: 40px;
+font-size: 40px;
 }
 .fa-github{
-	font-size: 30px;
-	color: #fff;
+font-size: 30px;
+color: #fff;
 }
 .backup{
-	font-size: 40px;
+font-size: 40px;
 }
 .fa-arrow-circle-up{
-	position: fixed;
-	right: 30px;
-	bottom: 30px;
-	background: none;
+position: fixed;
+right: 30px;
+bottom: 30px;
+background: none;
 }
-
 /*以上代码为页眉页脚统一样式设计*/
 .container{
-	text-align: center;
+text-align: center;
 }
