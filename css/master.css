@@ -103,5 +103,7 @@ footer hr{
 	bottom: 30px;
 	background: none;
 }
-
+#banner-img{
+	width: 100%;
+}
 /*以上代码为页眉页脚统一样式设计*/
