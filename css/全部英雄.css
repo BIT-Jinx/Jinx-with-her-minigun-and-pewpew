@@ -23,9 +23,9 @@ body
 	margin: 0 20%;
 	display: flex;
 	flex-wrap: wrap;
-	border: 2px solid rgba(22, 22, 22, 0.4);
+	border: 6px solid #c9aa71;
 	padding: 15px;
-	border-radius: 3px;
+	border-radius: 6px;
 	background-color: #f4f4f4;
 	justify-content: space-evenly;
 }
